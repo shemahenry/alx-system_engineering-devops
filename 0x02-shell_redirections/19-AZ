@@ -1,0 +1,4 @@
+#!/bin/bash
+t > 19-AZ
+#!/bin/bash
+tr "Ac" "Ze"
